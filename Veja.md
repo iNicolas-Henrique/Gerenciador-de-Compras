@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CRUD-CREATE-16080C?style=flat-square&labelColor=6B1028"/>
-  <img src="https://img.shields.io/badge/CRUD-READ-16080C?style=flat-square&labelColor=7D1733"/>
-  <img src="https://img.shields.io/badge/CRUD-UPDATE-16080C?style=flat-square&labelColor=8B1E3F"/>
-  <img src="https://img.shields.io/badge/CRUD-DELETE-16080C?style=flat-square&labelColor=A32645"/>
+ 
+  <img src="https://img.shields.io/badge/CRUD-16080C?style=flat-square&labelColor=8B1E3F"/>
+  
 </p>
 
 <p align="center">
